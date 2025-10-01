@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 27af0a80c89ffdd408f8af1549edf17d
+guid: b27077adf86ba2945a5a6cc36fb2a722
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8793032794440514339
-    second: Gemini_Generated_Image_7mq8ra7mq8ra7mq8_0
+      213: -7077352419248486742
+    second: Gemini_Generated_Image_yhid9pyhid9pyhid-Photoroom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,23 +139,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gemini_Generated_Image_7mq8ra7mq8ra7mq8_0
+      name: Gemini_Generated_Image_yhid9pyhid9pyhid-Photoroom_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1344
-        height: 768
+        x: 315
+        y: 68
+        width: 638
+        height: 583
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 32bbcf23db0270a70800000000000000
-      internalID: 8793032794440514339
+      spriteID: aa6417cd87138cd90800000000000000
+      internalID: -7077352419248486742
       vertices: []
       indices: 
       edges: []
@@ -164,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 44a0044da249b11418398f1b856d40b3
     internalID: 0
     vertices: []
     indices: 
@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gemini_Generated_Image_yhid9pyhid9pyhid-Photoroom_0: -7077352419248486742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
